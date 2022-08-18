@@ -690,8 +690,9 @@ ul.year li:nth-child(4){
 	padding:3.5em;
 }
 .row{
-	padding: 10px 5em;
-	margin: 0 1em;
+	padding: 10px 1em;
+	margin: 0;
+		
 }
 .row .title {
 	padding: 1em;
